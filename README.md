@@ -5,8 +5,11 @@ Usage
 -----
 
 1. Import the data source with bower
+
         bower install --save git@github.com:SYNERGY-GB/sgb-datasource.json#master
+        
 2. On your screens.js file, add the data source to the screen of your choice.
+
         screens = {
             login: {
                 type: 'sgb-screen-login',
