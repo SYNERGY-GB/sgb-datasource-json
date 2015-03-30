@@ -5,7 +5,7 @@
     "Saul Hernandez <sauldhernandez@gmail.com>"
   ],
   "description": "Allows the reading of json data files on megazord apps.",
-  "main": "dist/sgb-datasource-localjson.js",
+  "main": "dist/sgb-datasource-json.js",
   "moduleType": [
     "globals"
   ],
