@@ -1,0 +1,21 @@
+{
+  "name": "sgb-datasource-json",
+  "version": "1.0.0",
+  "authors": [
+    "Saul Hernandez <sauldhernandez@gmail.com>"
+  ],
+  "description": "Allows the reading of json data files on megazord apps.",
+  "main": "dist/sgb-datasource-localjson.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "Propietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
