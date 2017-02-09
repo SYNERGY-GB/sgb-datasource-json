@@ -14,7 +14,7 @@ Usage
             login: {
                 type: 'sgb-screen-login',
                 dataSource: {
-                    type: 'sgb-datasource-json#1.0',                    
+                    type: 'sgb-datasource-json#master',                    
                     params: {
                         path: 'data/products.json',
                     }
@@ -36,4 +36,4 @@ local json file, or a full url for a remote json data file.
 
 La forma de usar el datasource es especificando el branch 1.0 de la forma siguiente:
 
-  type: 'sgb-datasource-json#1.0',
+  type: 'sgb-datasource-json#master',
